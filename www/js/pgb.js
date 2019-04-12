@@ -23,8 +23,8 @@ function deviceInfo() {
 
 function myInfo() {
 
-	info =  'Piotrek tutaj' + '\n' +
+	name =  'Piotrek tutaj' + '\n' +
 			'=====' + '\n' +
-	navigator.notification.alert(info);
+	navigator.notification.alert(name);
 	
 }
