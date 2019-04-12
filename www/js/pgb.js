@@ -20,3 +20,11 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function myInfo() {
+
+	info =  'Piotrek tutaj' + '\n' +
+			'=====' + '\n' +
+	navigator.notification.alert(info);
+	
+}
